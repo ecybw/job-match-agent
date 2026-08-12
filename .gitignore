@@ -1,1 +1,28 @@
+# 环境变量
 .env
+
+# Python 虚拟环境
+agent_env/
+venv/
+env/
+
+# 向量数据库和索引
+chroma_db/
+faiss_index/
+data/chroma_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 本地模型缓存（如果有）
+huggingface_cache/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
