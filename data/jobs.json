@@ -1,0 +1,47 @@
+[
+  {
+    "title": "推进工程师",
+    "company": "星河动力",
+    "location": "北京",
+    "description": "负责液体火箭发动机系统设计、仿真与试验，参与发动机总装与测试。",
+    "requirements": ["流体力学", "CFD", "推进系统", "3年以上经验"],
+    "link": "https://www.example.com/jobs/1",
+    "category": "航天"
+  },
+  {
+    "title": "软件工程师",
+    "company": "字节跳动",
+    "location": "上海",
+    "description": "参与后端微服务开发，设计高并发系统，保障系统稳定性。",
+    "requirements": ["Java", "Spring Boot", "分布式系统", "数据库优化"],
+    "link": "https://www.example.com/jobs/2",
+    "category": "IT"
+  },
+  {
+    "title": "量化研究员",
+    "company": "幻方量化",
+    "location": "杭州",
+    "description": "开发量化交易策略，进行数据建模和回测，优化交易执行。",
+    "requirements": ["Python", "数学/统计", "机器学习", "金融工程"],
+    "link": "https://www.example.com/jobs/3",
+    "category": "金融"
+  },
+  {
+    "title": "医学影像AI工程师",
+    "company": "联影智能",
+    "location": "武汉",
+    "description": "利用深度学习分析医学影像，开发辅助诊断系统。",
+    "requirements": ["计算机视觉", "PyTorch", "医学影像处理", "Python"],
+    "link": "https://www.example.com/jobs/4",
+    "category": "医疗"
+  },
+  {
+    "title": "课程设计师（在线教育）",
+    "company": "好未来",
+    "location": "北京",
+    "description": "设计K12在线课程内容，分析学习数据，优化教学效果。",
+    "requirements": ["教育学", "课程设计", "数据分析", "沟通能力"],
+    "link": "https://www.example.com/jobs/5",
+    "category": "教育"
+  }
+]
